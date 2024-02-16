@@ -35,7 +35,7 @@
 
   1.1 `git add (file name)`
 
-- To stage only 1 file
+  - To stage only 1 file
 
 2. `git commit -m "Your message here."`- Use this
 
