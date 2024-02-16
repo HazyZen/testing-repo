@@ -25,7 +25,7 @@ m stands for message
 to set/configure your name
 
 `git config user.email "your@email.com"`
-to set/configure your email realted to github
+to set/configure your email related to github
 
 `git log`
 type q to exit log
