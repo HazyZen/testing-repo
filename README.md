@@ -39,7 +39,7 @@
 
   - To stage only 1 file
 
-2. `git commit -m "Your message here."` - Use this
+2. `git commit -m "Your message here."` - <strong>Use this</strong>
 
 - Record changes to the repository
 - m stands for message
