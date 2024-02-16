@@ -1,34 +1,38 @@
 # testing-repo
 
 `git status`
-check changes made
+Check changes made
 
 `git diff`
-press q to exit
-
-`git add (file name)`
-to stage only 1 file
-
-`git add .`
-to stage all files
-
-`git restore --staged .`
-unstage all files
-
-`git commit`
-save to computer
-
-`git commit -m`
-m stands for message
-
-`git config user.name "name"`
-to set/configure your name
-
-`git config user.email "your@email.com"`
-to set/configure your email related to github
+Show changes between commits, commit and working tree
+Press q to exit
 
 `git log`
-type q to exit log
+Type q to exit log
 
-`git push origin main`
-push commited files to github
+`git config user.name "name"`
+Can add --global flag after config if you want all your projects to have same name
+To set/configure your name
+
+`git config user.email "your@email.com"`
+Can add --global flag after config if you want all your projects to have same email
+To set/configure your email related to github
+
+`git restore --staged .`
+Unstage all files
+
+1. `git add .`
+   To stage all files
+
+`git add (file name)`
+To stage only 1 file
+
+2. `git commit -m "Your message here."`- Use this
+
+   - Record changes to the repository
+     m stands for message
+
+3. Use `git log` to check
+
+4. `git push origin main`
+   Push commited files to github
