@@ -4,10 +4,11 @@
 check changes made
 
 `git diff`
-press q to get out
+press q to exit
 
 `git add (file name)`
 to stage only 1 file
+
 `git add .`
 to stage all files
 
@@ -21,10 +22,13 @@ save to computer
 m stands for message
 
 `git config user.name "name"`
+to set/configure your name
+
 `git config user.email "your@email.com"`
+to set/configure your email realted to github
 
 `git log`
 type q to exit log
 
-`git push`
+`git push origin main`
 push commited files to github
