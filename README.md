@@ -47,3 +47,5 @@
 4. `git push origin main`
 
 - Push commited files to github
+
+`git pull origin main`
