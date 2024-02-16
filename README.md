@@ -1,5 +1,6 @@
 # testing-repo
 
+<h1>Git Command Lines</h1>
 `git status`
 
 - Show the working tree status
@@ -27,7 +28,7 @@
 
 - Unstage all files
 
-<h1>How to change and save files to github</h1>
+<h2>How to change and save files to github</h2>
 
 1. `git add .`
 
@@ -48,4 +49,8 @@
 
 - Push commited files to github
 
+<h2>Pull file from github</h2>
+
 `git pull origin main`
+
+- Make sure branch is upto date before pull
