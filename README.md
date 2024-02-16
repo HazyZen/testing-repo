@@ -33,7 +33,7 @@
 
 - To stage all files
 
-`git add (file name)`
+  1.1 `git add (file name)`
 
 - To stage only 1 file
 
