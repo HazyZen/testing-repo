@@ -50,6 +50,9 @@
 
 - Push commited files to github
 
+- `git push --force origin main`
+  - Only use when you think your file is correct and not the github one
+
 <h2>Pull file from github</h2>
 
 `git pull origin main`
