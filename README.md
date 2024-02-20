@@ -90,3 +90,9 @@
 `git push -d origin hello`
 
 - Deletes hello branch on github
+
+<h2>Code Block</h2>
+
+```JS
+  let string = "This is a code block";
+```
