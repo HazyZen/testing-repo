@@ -1,5 +1,3 @@
-# testing-repo
-
 <h1>Git Command Lines</h1>
 
 `git status`
