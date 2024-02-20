@@ -58,3 +58,8 @@
 `git pull origin main`
 
 - Make sure branch is upto date before pull
+
+`git pull --rebase origin main`
+
+- Combining changes from a remote repository into your local branch
+-
