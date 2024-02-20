@@ -104,3 +104,6 @@ git status
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+- Syntax is `- [ ]`
+- x inside will be a tick, like this - [x]
