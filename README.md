@@ -98,3 +98,9 @@ git status
 ```JS
   let string = "This is a code block";
 ```
+
+<hr>
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
