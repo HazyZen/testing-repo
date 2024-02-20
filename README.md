@@ -126,6 +126,8 @@ git push origin main
 ![Image of woman yelling at cat meme](https://images.ctfassets.net/l3l0sjr15nav/77yLiDoRKLpzsFnzoNoh3Z/37f52bdeb25a8e72574dd2312817f149/Woman-Yelling-at-Cat-Meme-Generator-Blank-Template.png)
 ```
 
+Syntax: `![Descriptive Text](Image Address)`
+
 <hr>
 
 ```JS
