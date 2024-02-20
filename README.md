@@ -59,4 +59,4 @@
 
 - Make sure branch is upto date before pull
 
-  `Git something`
+`git something`
