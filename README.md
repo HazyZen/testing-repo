@@ -1,6 +1,4 @@
-# testing-repo
-
-<h2>Creating a new branch</h2>
+<h1>Creating a new branch</h1>
 
 `git branch`
 
