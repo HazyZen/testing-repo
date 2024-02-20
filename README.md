@@ -93,7 +93,17 @@ git status
 
 - Deletes hello branch on github
 
-<h2>Code Block</h2>
+<hr>
+
+<h2>Adding an image</h2>
+
+![Image of cat](https://images.ctfassets.net/l3l0sjr15nav/77yLiDoRKLpzsFnzoNoh3Z/37f52bdeb25a8e72574dd2312817f149/Woman-Yelling-at-Cat-Meme-Generator-Blank-Template.png)
+
+```
+![Image of woman yelling at cat meme](https://images.ctfassets.net/l3l0sjr15nav/77yLiDoRKLpzsFnzoNoh3Z/37f52bdeb25a8e72574dd2312817f149/Woman-Yelling-at-Cat-Meme-Generator-Blank-Template.png)
+```
+
+<hr>
 
 ```JS
   let string = "This is a code block";
