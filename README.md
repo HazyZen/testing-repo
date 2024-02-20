@@ -1,8 +1,10 @@
 <h1>Git Command Lines</h1>
 
-`git status`
+```
+git status
+```
 
-- Show the working tree status
+- Shows the working tree status
 
 `git diff`
 
