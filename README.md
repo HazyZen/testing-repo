@@ -6,38 +6,52 @@ git status
 
 - Shows the working tree status
 
-`git diff`
+```
+git diff
+```
 
 - Show changes between commits, commit and working tree
 - Press q to exit
 
-`git log`
+```
+git log
+```
 
 - Type q to exit log
 
-`git config user.name "name"`
+```
+git config user.name "name"
+```
 
 - Can add --global flag after config if you want all your projects to have same name
 - To set/configure your name
 
-`git config user.email "your@email.com"`
+```
+git config user.email "your@email.com"
+```
 
 - Can add --global flag after config if you want all your projects to have same email
 - To set/configure your email related to github
 
-`git restore --staged .`
+```
+git restore --staged .
+```
 
 - Unstage all files
 
 <h2>How to change and save files to github</h2>
 
-1. `git add .`
+1. To stage all files
 
-- To stage all files
+```
+git add .
+```
 
-  1.1 `git add (file name)`
+1.1 To stage only 1 file
 
-  - To stage only 1 file
+```
+git add (file name)
+```
 
 2. `git commit -m "Your message here."` - <strong>Use this</strong>
 
