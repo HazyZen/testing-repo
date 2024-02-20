@@ -39,15 +39,15 @@ git restore --staged .
 
 - Unstage all files
 
-<h2>How to change and save files to github</h2>
+# <h2>How to change and save files to github</h2>
 
-1. To stage all files
+## 1. To stage all files
 
 ```
 git add .
 ```
 
-1.1 To stage only 1 file
+- 1.1 To stage only 1 file
 
 ```
 git add (file name)
