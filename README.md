@@ -106,4 +106,4 @@ git status
 - [ ] This item is not complete
 
 - Syntax is `- [ ]`
-- x inside will be a tick, like this - [x]
+- x inside will be a tick, like this `- [x]`
