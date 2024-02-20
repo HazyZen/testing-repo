@@ -1,4 +1,4 @@
-<h1>Git Command Lines</h1>
+# Git Command Lines
 
 ```
 git status
@@ -39,9 +39,9 @@ git restore --staged .
 
 - Unstage all files
 
-# <h2>How to change and save files to github</h2>
+## How to change and save files to github
 
-## 1. To stage all files
+1. To stage all files
 
 ```
 git add .
@@ -53,21 +53,30 @@ git add .
 git add (file name)
 ```
 
-2. `git commit -m "Your message here."` - <strong>Use this</strong>
+2. Record changes to the repository
 
-- Record changes to the repository
+```
+git commit -m "Your message here."
+```
+
 - m stands for message
 
-3. Use `git log` to check
+3. To check commit
 
-4. `git push origin main`
+```
+git log
+```
 
-- Push commited files to github
+4. Push commited files to github's main
+
+```
+git push origin main
+```
 
 - `git push --force origin main`
   - Only use when you think your file is correct and not the github one
 
-<h2>Pull file from github</h2>
+## Pull file from github
 
 `git pull origin main`
 
@@ -77,7 +86,7 @@ git add (file name)
 
 - Combining changes from a remote repository into your local branch
 
-<h2>Creating a new branch</h2>
+## Creating a new branch
 
 `git branch`
 
@@ -109,7 +118,7 @@ git add (file name)
 
 <hr>
 
-<h2>Adding an image</h2>
+## Adding an image
 
 ![Image of cat](https://images.ctfassets.net/l3l0sjr15nav/77yLiDoRKLpzsFnzoNoh3Z/37f52bdeb25a8e72574dd2312817f149/Woman-Yelling-at-Cat-Meme-Generator-Blank-Template.png)
 
