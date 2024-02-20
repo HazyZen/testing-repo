@@ -59,7 +59,11 @@
 
 - Make sure branch is upto date before pull
 
+<<<<<<< HEAD
 `git pull --rebase origin main`
 
 - Combining changes from a remote repository into your local branch
 -
+=======
+`git something`
+>>>>>>> 4b48e3a320529870e624c34027e90487fe83a8a8
