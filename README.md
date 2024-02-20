@@ -82,3 +82,11 @@
 `git push origin hello`
 
 - Push to hello branch
+
+`git branch -d hello`
+
+- Deletes hello branch
+
+`git push -d origin hello`
+
+- Deletes hello branch on github
