@@ -142,3 +142,26 @@ Syntax: `![Descriptive Text](Image Address)`
 
 - Syntax is `- [ ]`
 - x inside will be a tick, like this `- [x]`
+<hr>
+
+```
+git remote add upstream (url)
+```
+
+- upstream is for fork?
+
+git remote -v
+
+```
+git pull --rebase upstream main
+```
+
+- pulls the main from upstream to keep your fork main up-to-date
+- if in branch, will have conflict
+
+```
+git push --force origin main
+```
+
+- if no branch on fork and use git push origin main, won't work
+- so use git push --force origin main
