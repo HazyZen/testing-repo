@@ -165,3 +165,15 @@ git push --force origin main
 
 - if no branch on fork and use git push origin main, won't work
 - so use git push --force origin main
+
+https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification
+
+```
+git merge (branch)
+```
+
+- when in main
+
+```
+git cherry-pick (git log to get hash)
+```
